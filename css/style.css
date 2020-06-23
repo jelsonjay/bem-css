@@ -21,6 +21,10 @@ h1 {
     padding: 1em;
 }
 
+.course__space {
+    padding: 1em;
+}
+
 .courses {
     margin: 0 auto;
     max-width: 1000px;
@@ -67,7 +71,7 @@ h1 {
     align-items: center;
     color: var(--mainOrange);
     background: #eeeeee;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 .course__info i {
