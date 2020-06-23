@@ -1,5 +1,5 @@
 # Bem-css
 
-### Blocks Elements and Modifiers
+### Block Element and Modifier
 
 [Access My Project] (https://jelsonjay.github.io/bem-css/)
